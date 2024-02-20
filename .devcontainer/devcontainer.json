@@ -1,7 +1,7 @@
 {
     "name": "app-dev",
     "dockerComposeFile": "../compose.yml",
-    "service": "php",
+    "service": "app-php"
     // "shutdownAction": "stopCompose"
     // "workspaceFolder": "/workspace/"
 }
