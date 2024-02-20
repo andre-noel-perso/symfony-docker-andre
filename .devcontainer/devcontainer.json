@@ -1,7 +1,7 @@
 {
     "name": "app-dev",
     "dockerComposeFile": [
-        "../../compose.yaml"
+        "./../compose.yaml"
     ],
     "service": "php",
     "shutdownAction": "stopCompose"
